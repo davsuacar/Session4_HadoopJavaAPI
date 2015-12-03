@@ -11,17 +11,17 @@ public class HistogramDriver {
 	public static void main(String[] args) throws Exception {
 		if (args.length != 2) {
 			System.out
-					.printf("Usage: Histogram <input dir> <output dir>\n");
+					.printf("Usage: Histogram <input dir> <output dir> <number bars>\n");
 			System.exit(-1);
 		}
-				
+		
 		Job job = new Job();
+		job.getConfiguration().set("NumberOfBars", args[2]);
 		job.setJobName("Histogram");
 		job.setInputFormatClass(KeyValueTextInputFormat.class);
 
-		//CHANGE INPUT OUTPUT
-		//FileInputFormat.setInputPaths(job, new Path(args[0]));
-		//FileOutputFormat.setOutputPath(job, new Path(args[1]));
+		FileInputFormat.setInputPaths(job, new Path(args[0]));
+		FileOutputFormat.setOutputPath(job, new Path(args[1]));
 		
 		job.setMapperClass(HistogramMapper.class);
 		job.setReducerClass(HistogramReducer.class);

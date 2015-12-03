@@ -1,0 +1,228 @@
+2015-12-03 21:03:27,842 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez:david-suarez:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/pom.xml.
+2015-12-03 21:03:27,848 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez:david-suarez:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/pom.xml.
+2015-12-03 21:03:31,676 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:31,677 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:03:31,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:31,684 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:03:33,205 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez:david-suarez:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/pom.xml.
+2015-12-03 21:03:34,345 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:34,345 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:03:34,369 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:34,369 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:03:35,367 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-1-improvement:david-suarez-1-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/pom.xml.
+2015-12-03 21:03:35,936 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-2-improvement:david-suarez-2-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/pom.xml.
+2015-12-03 21:03:36,134 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez2:david-suarez2:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/pom.xml.
+2015-12-03 21:03:36,163 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-1-improvement:david-suarez-1-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/pom.xml.
+2015-12-03 21:03:36,861 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:36,865 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:03:36,870 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:36,872 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:03:37,727 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:37,730 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:03:37,734 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:37,734 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:03:37,874 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-2-improvement:david-suarez-2-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/pom.xml.
+2015-12-03 21:03:38,499 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:38,499 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/main/resources
+2015-12-03 21:03:38,502 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:38,502 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/test/resources
+2015-12-03 21:03:39,178 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez:david-suarez:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/pom.xml.
+2015-12-03 21:03:39,836 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-1-improvement:david-suarez-1-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/pom.xml.
+2015-12-03 21:03:39,863 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:39,864 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/main/resources
+2015-12-03 21:03:39,867 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:39,867 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/test/resources
+2015-12-03 21:03:40,058 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-2-improvement:david-suarez-2-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/pom.xml.
+2015-12-03 21:03:40,181 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez2:david-suarez2:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/pom.xml.
+2015-12-03 21:03:40,677 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:40,677 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/main/resources
+2015-12-03 21:03:40,679 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:40,679 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/test/resources
+2015-12-03 21:03:42,432 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez:david-suarez:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/pom.xml.
+2015-12-03 21:03:43,670 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-1-improvement:david-suarez-1-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/pom.xml.
+2015-12-03 21:03:43,725 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:43,725 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/main/resources
+2015-12-03 21:03:43,730 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:43,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/test/resources
+2015-12-03 21:03:44,669 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez-2-improvement:david-suarez-2-improvement:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/pom.xml.
+2015-12-03 21:03:44,778 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: david-suarez2:david-suarez2:0.0.1-SNAPSHOT @ /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/pom.xml.
+2015-12-03 21:03:46,450 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:46,450 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:03:46,451 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:46,451 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:03:46,907 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:46,907 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:03:46,909 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:46,917 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:03:47,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:47,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/main/resources
+2015-12-03 21:03:47,426 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:47,426 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-2-improvement/src/test/resources
+2015-12-03 21:03:47,787 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:47,787 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/main/resources
+2015-12-03 21:03:47,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:03:47,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez2/src/test/resources
+2015-12-03 21:04:26,432 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:04:26,435 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:04:26,441 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:04:26,443 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:04:45,910 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:04:45,912 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:04:45,914 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:04:45,914 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:05:29,798 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:05:29,798 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:05:29,802 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:05:29,803 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:05:33,087 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:05:33,087 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:05:33,088 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:05:33,088 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:06:11,459 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:11,460 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:06:11,462 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:11,462 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:06:29,430 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:29,433 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:06:29,437 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:29,440 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:06:31,873 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:31,873 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:06:31,877 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:06:31,877 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:08:42,032 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:42,033 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:08:42,034 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:42,034 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:08:48,591 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:48,592 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:08:48,593 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:48,593 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:08:49,640 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:49,640 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:08:49,645 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:49,645 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:08:53,412 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:53,412 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:08:53,419 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:53,419 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:08:59,239 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:59,239 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:08:59,240 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:08:59,241 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:01,084 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:01,088 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:01,089 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:01,089 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:11,633 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:11,633 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:11,635 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:11,635 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:14,670 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:14,670 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:14,671 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:14,671 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:18,565 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:18,565 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:18,566 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:18,566 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:23,943 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:23,943 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:23,944 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:23,944 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:09:29,519 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:29,520 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:09:29,521 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:09:29,521 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:10:09,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:10:09,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:10:09,145 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:10:09,145 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:11:24,689 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:11:24,693 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:11:24,698 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:11:24,701 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:11:33,234 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:11:33,234 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:11:33,235 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:11:33,235 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:01,934 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:01,935 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:01,936 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:01,936 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:06,889 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:06,889 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:06,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:06,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:11,391 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:11,391 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:11,392 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:11,392 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:16,766 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:16,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:16,768 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:16,768 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:19,629 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:19,629 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:19,630 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:19,630 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:50,747 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:50,747 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:50,748 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:50,749 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:12:59,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:59,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:12:59,545 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:12:59,545 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:13:09,167 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:09,167 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:13:09,168 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:09,168 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:13:22,993 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:22,994 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:13:22,995 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:22,995 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:13:24,186 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:24,186 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:13:24,187 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:24,188 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:13:26,230 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:26,231 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:13:26,240 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:13:26,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:14:38,376 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:14:38,376 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:14:38,377 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:14:38,377 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:15:14,463 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:15:14,463 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:15:14,466 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:15:14,466 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:16:12,421 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:16:12,421 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:16:12,422 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:16:12,422 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:16:19,020 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:16:19,020 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:16:19,021 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:16:19,021 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:20:51,904 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:20:51,904 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:20:51,905 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:20:51,905 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:20:52,977 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:20:52,978 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:20:52,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:20:52,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:21:15,826 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:21:15,826 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:21:15,827 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:21:15,828 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
+2015-12-03 21:21:16,010 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:21:16,013 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/main/resources
+2015-12-03 21:21:16,016 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:21:16,017 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez-1-improvement/src/test/resources
+2015-12-03 21:25:27,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:25:27,780 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/main/resources
+2015-12-03 21:25:27,781 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 21:25:27,781 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/davidsuarez/Dropbox/U-TAD/Práctica/Semana_4/Entregables/david-suarez/src/test/resources
