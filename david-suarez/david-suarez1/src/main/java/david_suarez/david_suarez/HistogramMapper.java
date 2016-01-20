@@ -2,27 +2,34 @@ package david_suarez.david_suarez;
 
 import java.io.IOException;
 
-import org.apache.hadoop.io.DoubleWritable;
+import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.IntWritable;
-import org.apache.hadoop.mapred.JobConf;
+import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
-public class HistogramMapper extends Mapper<DoubleWritable, NumbersTuple, IntWritable, IntWritable>{
+public class HistogramMapper extends Mapper<Text, Text, IntWritable, IntWritable>{
 
-	private static Integer n;
-
-	public void configure(JobConf job) {
-	     n = Integer.parseInt(job.get("NumberOfBars"));
-	}
 	@Override
-	public void map(DoubleWritable key, NumbersTuple value, Context context) throws IOException,
+	public void map(Text key, Text value, Context context) throws IOException,
 			InterruptedException {
 		
-		Double number = key.get();
-		Double min = value.getmin().get();
-		Double max = value.getmax().get();
+		Configuration conf = context.getConfiguration();
+		Integer n = Integer.parseInt(conf.get("NumberOfBars"));
+		Double max = new Double(conf.get("Max"));
+		Double min = new Double(conf.get("Min"));
+
+		System.out.println("Receiving Number of Bars" + n);
+		System.out.println("Receiving Max" + max);
+		System.out.println("Receiving Min" + min);
 		
-		Double bar = Math.floor((number - min)/((min - max)/n));
+		// Receive the number again
+		Double number = new Double(key.toString());
+		
+		System.out.println("Number" + number);
+		
+		Double bar = Math.floor((number - min)/((max - min)/n));
+		
+		System.out.println("Bar" + bar);
 		
 		if(number.equals(max)){
 			context.write(new IntWritable(n - 1), new IntWritable(1));

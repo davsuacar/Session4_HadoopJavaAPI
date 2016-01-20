@@ -19,7 +19,6 @@ public class CalculateMaxMinReducer extends Reducer<IntWritable, NumbersTuple, I
 		Double max = Double.MIN_VALUE;
 		
 		for (NumbersTuple maxmin : values) {
-			System.out.println("Key" + key + "\n" + "Value" + maxmin.toString());
 			min = Math.min(min, maxmin.getmin().get());
 			max = Math.max(max, maxmin.getmax().get());
 		}
