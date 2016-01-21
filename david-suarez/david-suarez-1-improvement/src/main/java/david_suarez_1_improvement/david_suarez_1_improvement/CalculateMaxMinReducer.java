@@ -12,8 +12,11 @@ public class CalculateMaxMinReducer extends Reducer<IntWritable, NumbersTuple, I
 	public void reduce(IntWritable key, Iterable<NumbersTuple> values, Context context)
 			throws IOException, InterruptedException {
 		
-		Double min = Double.MIN_VALUE;
-		Double max = Double.MAX_VALUE;
+
+		
+		
+		Double min = Double.MAX_VALUE;
+		Double max = Double.MIN_VALUE;
 		
 		for (NumbersTuple maxmin : values) {
 			min = Math.min(min, maxmin.getmin().get());

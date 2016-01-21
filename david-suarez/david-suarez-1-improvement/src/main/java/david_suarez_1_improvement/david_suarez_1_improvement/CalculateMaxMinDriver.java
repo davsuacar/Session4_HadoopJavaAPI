@@ -23,6 +23,7 @@ public class CalculateMaxMinDriver {
 		FileOutputFormat.setOutputPath(job, new Path(args[1]));
 		
 		job.setMapperClass(CalculateMaxMinMapper.class);
+		job.setCombinerClass(CalculateMaxMinReducer.class);
 		job.setReducerClass(CalculateMaxMinReducer.class);
 		
 		job.setMapOutputKeyClass(IntWritable.class);

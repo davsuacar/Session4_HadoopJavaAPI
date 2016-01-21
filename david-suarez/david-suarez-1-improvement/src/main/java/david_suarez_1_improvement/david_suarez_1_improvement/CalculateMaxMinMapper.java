@@ -8,14 +8,16 @@ import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
-public class CalculateMaxMinMapper extends Mapper<Text, NullWritable, IntWritable, NumbersTuple>{
+public class CalculateMaxMinMapper extends Mapper<Text, Text, IntWritable, NumbersTuple>{
 
 	@Override
-	public void map(Text key, NullWritable value, Context context) throws IOException,
+	public void map(Text key, Text value, Context context) throws IOException,
 			InterruptedException {
 		
-		DoubleWritable limit = new DoubleWritable(new Double(key.toString())); 
+		DoubleWritable limit = new DoubleWritable(new Double(key.toString()));
 		
-		context.write(new IntWritable(1), new NumbersTuple(limit, limit));
+		NumbersTuple valueToSend = new NumbersTuple(limit, limit);
+		
+		context.write(new IntWritable(1), valueToSend);
 	}
 }
