@@ -4,6 +4,7 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
+import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.WritableComparable;
 
@@ -12,10 +13,22 @@ public class FriendsTuple implements WritableComparable<FriendsTuple>{
 	private Text bool;
 	private Text friend;
 
+	public FriendsTuple() {
+	}
+	
 	public FriendsTuple(Text bool, Text friend) {
-		super();
 		this.bool = bool;
 		this.friend = friend;
+	}
+	
+	public void write(DataOutput out) throws IOException {
+		bool.write(out);
+		friend.write(out);
+	}
+
+	public void readFields(DataInput in) throws IOException {
+		bool = new Text(in.readLine().trim());
+		friend = new Text(in.readLine().trim());
 	}
 
 	public Text getBool() {
@@ -32,18 +45,6 @@ public class FriendsTuple implements WritableComparable<FriendsTuple>{
 
 	public void setFriend(Text friend) {
 		this.friend = friend;
-	}
-
-	public void write(DataOutput out) throws IOException {
-		bool.write(out);
-		friend.write(out);
-		
-	}
-
-	public void readFields(DataInput in) throws IOException {
-		bool.readFields(in);
-		friend.readFields(in);
-		
 	}
 
 	public int compareTo(FriendsTuple o) {
@@ -85,6 +86,10 @@ public class FriendsTuple implements WritableComparable<FriendsTuple>{
 		return true;
 	}
 	
+	  @Override
+	  public String toString() {
+	    return bool.toString() + "\t" + friend.toString();
+	  }
 	
 
 }

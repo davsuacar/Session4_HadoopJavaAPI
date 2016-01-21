@@ -10,9 +10,9 @@ public class FriendsMapper extends Mapper<Text, Text, Text, FriendsTuple>{
 	@Override
 	public void map(Text key, Text value, Context context) throws IOException,
 			InterruptedException {
-	
-		context.write(key, new FriendsTuple(new Text("true"), value));
-		context.write(value, new FriendsTuple(new Text("false"), key));
+		
+		context.write(key, new FriendsTuple(new Text("true\n"), value));
+		context.write(value, new FriendsTuple(new Text("false\n"), key));
 	}
 
 }
