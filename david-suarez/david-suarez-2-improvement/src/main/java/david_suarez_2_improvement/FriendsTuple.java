@@ -6,16 +6,32 @@ import java.io.IOException;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.WritableComparable;
+import org.apache.hadoop.io.WritableComparator;
+
 
 public class FriendsTuple implements WritableComparable<FriendsTuple>{
 	
 	private Text bool;
 	private Text friend;
 
+	public FriendsTuple() {
+	}
+	
 	public FriendsTuple(Text bool, Text friend) {
-		super();
 		this.bool = bool;
 		this.friend = friend;
+	}
+	
+	public void write(DataOutput out) throws IOException {
+		bool.write(out);
+		friend.write(out);
+	}
+
+	public void readFields(DataInput in) throws IOException {
+		bool = new Text(in.readLine().trim());
+		System.out.println("Bool " + bool);
+		friend = new Text(in.readLine().trim());
+		System.out.println("Friend " + friend);
 	}
 
 	public Text getBool() {
@@ -32,18 +48,6 @@ public class FriendsTuple implements WritableComparable<FriendsTuple>{
 
 	public void setFriend(Text friend) {
 		this.friend = friend;
-	}
-
-	public void write(DataOutput out) throws IOException {
-		bool.write(out);
-		friend.write(out);
-		
-	}
-
-	public void readFields(DataInput in) throws IOException {
-		bool.readFields(in);
-		friend.readFields(in);
-		
 	}
 
 	public int compareTo(FriendsTuple o) {
@@ -85,6 +89,39 @@ public class FriendsTuple implements WritableComparable<FriendsTuple>{
 		return true;
 	}
 	
+	  @Override
+	  public String toString() {
+	    return bool.toString() + "\t" + friend.toString();
+	  }
+	  
+	  /** A Comparator optimized for NumbersTuple. */ 
+	  public static class Comparator extends WritableComparator {
+	    public Comparator() {
+	      super(FriendsTuple.class);
+	    }
+	    
+	    public int compare(byte[] b1, int start1, int length1,
+	                       byte[] b2, int start2, int length2,
+	                       byte[] b3, int start3, int length3,
+	                       byte[] b4, int start4, int length4) {
+	    	try {
+	    		int thisBool = readVInt(b1, start1);
+				int thatBool = readVInt(b2, start2);
+				int thisFriend = readVInt(b3, start3);
+				int thatFriend = readVInt(b4, start4);
+			  
+				int boolCheck = thisBool < thatBool ? -1 : (thisBool==thatBool ? 0 : 1);
+				int friendCheck = thisFriend<thatFriend ? -1 : (thisFriend==thatFriend ? 0 : 1);
+				return (boolCheck==0 ? friendCheck : friendCheck);
+	    	} catch (IOException e) {
+	    		throw new RuntimeException(e);
+	    	}
+	    }
+	  }
+
+	  static {                                
+	    WritableComparator.define(FriendsTuple.class, new Comparator());
+	  }
 	
 
 }
